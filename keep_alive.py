@@ -1,4 +1,3 @@
-# Source: https://youtu.be/SPTfmiYiuok
 # This is NOT part of the bot's functionality. This code is meant to create a web server for the bot so it can always stay online.
 
 from flask import Flask
